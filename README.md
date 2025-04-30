@@ -1,4 +1,4 @@
-# To jest kopia projektu, więc czas dodania pierwszego commitu jest mocno po deadline. Proszę sprawdzać projekt z repozytorium koleżanki 
+# To jest kopia projektu! Proszę tego nie sprawdzać 
 Model ewolucyjny oparty o geometryczny model Fishera (GMF) <br>
 Aby uruchomić symulację należy wywołać komendę: <br>
 `python main.py` <br>
